@@ -1,0 +1,15 @@
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\bin\Release\demo ui.exe.config
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\bin\Release\demo ui.exe
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\bin\Release\demo ui.pdb
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Release\MainWindow.baml
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Release\Station\Station Teaching.baml
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Release\MainWindow.g.cs
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Release\Station\Station Teaching.g.cs
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Release\App.g.cs
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Release\demo ui_MarkupCompile.cache
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Release\demo ui.g.resources
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Release\demo_ui.Properties.Resources.resources
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Release\demo ui.csproj.GenerateResource.cache
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Release\demo ui.csproj.CoreCompileInputs.cache
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Release\demo ui.exe
+C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Release\demo ui.pdb
