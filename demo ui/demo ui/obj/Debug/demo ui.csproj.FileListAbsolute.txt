@@ -13,5 +13,4 @@ C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Debug\de
 C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Debug\demo ui.exe
 C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Debug\demo ui.pdb
 C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Debug\Station\Station Teaching.g.cs
-C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Debug\demo ui_MarkupCompile.lref
 C:\Users\jun_jihan\Desktop\작업용 폴더\TPdemos\demo ui\demo ui\obj\Debug\Station\Station Teaching.baml
